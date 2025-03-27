@@ -1,4 +1,4 @@
-# Positioning-NBIoT-Beyond-WkNN
+# Range-free Positioning in NB-IoT Networks by Machine Learning: beyond WkNN
 Positioning in NB-IoT networks by fingerprinting using machine learning
 
 This Matlab code performs positioning in NB-IoT networks by fingerprinting using five machine learning strategies based on combinations of Weighted k Nearest Neighbours (WkNN), Support Vector Machine (SVM), Random Forest (RF) and Artificial Neural Networks (ANN) and of data preprocessing techniques aimed at reducing computational
