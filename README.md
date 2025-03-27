@@ -31,5 +31,4 @@ L. De Nardis, M. Savelli, G. Caso, F. Ferretti, L. Tonelli, N. Bouzar, A. Brunst
 
 Acknowledgments
 
-The work of Luca De Nardis, Nadir Bouzar and Maria-Gabriella Di Benedetto in the creation of this dataset was partially supported by the European Union - Next Generation EU under the Italian National Recovery and Resilience Plan (NRRP), Mission 4, Component 2, Investment
-1.3, CUP B53C22004050001, partnership on “Telecommunications of the Future” (PE00000001 - program “RESTART”).
+The work of Luca De Nardis and Nadir Bouzar in the creation of this dataset was partially supported by the European Union - Next Generation EU under the Italian National Recovery and Resilience Plan (NRRP), Mission 4, Component 2, Investment 1.3, CUP B53C22004050001, partnership on “Telecommunications of the Future” (PE00000001 - program “RESTART”).
