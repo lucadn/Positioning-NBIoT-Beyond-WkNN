@@ -4,11 +4,15 @@ Positioning in NB-IoT networks by fingerprinting using machine learning
 This Matlab code performs positioning in NB-IoT networks by fingerprinting using five machine learning strategies based on combinations of Weighted k Nearest Neighbours (WkNN), Support Vector Machine (SVM), Random Forest (RF) and Artificial Neural Networks (ANN) and of data preprocessing techniques aimed at reducing computational
 complexity in the spatial domain and in the feature domain, respectively by means of hard ans soft clustering and of Principal Component Analysis (PCA). The five strategies are defined as follows:
 
-I - WkWN in combination with the Weighted Coverage similarity metric, combining a Euclidean distance computed on the selected 3GPP radio parameter (RSSI, SINR, RSRP, RSRQ) and the number of NBIoT Physical Cell Identifier (NPCI) in common between points.
-II - Hard clustering (k-Means or k-Medoids) + SVM + WkWN using Weighted Coverage
-III - Hard clustering (k-Means or k-Medoids) + RF + WkWN using Weighted Coverage
-IV - Soft clustering (Fuzzy C-Means) + RF + WkWN using Weighted Coverage
-V - ANN
+I - WkWN in combination with the Weighted Coverage similarity metric, combining a Euclidean distance computed on the selected 3GPP radio parameter (RSSI, SINR, RSRP, RSRQ) and the number of NBIoT Physical Cell Identifier (NPCI) in common between points;
+
+II - Hard clustering (k-Means or k-Medoids) + SVM + WkWN using Weighted Coverage;
+
+III - Hard clustering (k-Means or k-Medoids) + RF + WkWN using Weighted Coverage;
+
+IV - Soft clustering (Fuzzy C-Means) + RF + WkWN using Weighted Coverage;
+
+V - ANN.
 
 
 Each strategy is implemented in a main script and a set of supporting functions duplicated over two different datasets:
