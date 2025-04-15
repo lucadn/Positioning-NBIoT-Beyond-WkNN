@@ -27,7 +27,7 @@ also including 5G data.
 
 When using this code in a scientific publication, please cite the following research paper:
 
-L. De Nardis, M. Savelli, G. Caso, F. Ferretti, L. Tonelli, N. Bouzar, A. Brunstrom, Ö. Alay, M. Neri, F. Elbahhar and M.-G. Di Benedetto,  “Range-free Positioning in NB-IoT Networks by Machine Learning: Beyond WkNN”, undergoing minor revision for the IEEE Journal on Indoor and Seamless Positioning and Navigation, 2025.
+L. De Nardis, M. Savelli, G. Caso, F. Ferretti, L. Tonelli, N. Bouzar, A. Brunstrom, Ö. Alay, M. Neri, F. Elbahhar and M.-G. Di Benedetto,  “Range-free Positioning in NB-IoT Networks by Machine Learning: Beyond WkNN”, IEEE Journal on Indoor and Seamless Positioning and Navigation, 2025. DOI: 10.1109/JISPIN.2025.3558465
 
 Acknowledgments
 
