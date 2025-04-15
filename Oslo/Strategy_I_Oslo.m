@@ -1,7 +1,6 @@
 % This script implements Strategy I for the Oslo dataset as described in the following research paper:
 % L. De Nardis, M. Savelli, G. Caso, F. Ferretti, L. Tonelli, N. Bouzar, A. Brunstrom, Ö. Alay, M. Neri, F. Elbahhar and M.-G. Di Benedetto, 
-% “Range-free Positioning in NB-IoT Networks by Machine Learning: beyond WkNN”, 
-% undergoing minor revision for the IEEE Journal on Indoor and Seamless Positioning and Navigation, 2025.
+% “Range-free Positioning in NB-IoT Networks by Machine Learning: beyond WkNN”, IEEE Journal on Indoor and Seamless Positioning and Navigation, 2025.
 clc
 clear
 close all;
